@@ -14,52 +14,51 @@ The Tableau story of the NYC CitiBike can be found in the following link:
 
 
 - Front page
-
-<img width="1440" alt="front page" src="https://user-images.githubusercontent.com/93894964/153789128-c3262661-a788-4758-a7d9-e8fafad51ad5.png">
+<img width="1104" alt="front page" src="https://user-images.githubusercontent.com/93894964/153789691-3f4dff95-8f9f-4267-b868-c8159bcc46e2.png">
 
 
 - Check Out Time by Gender 
 
-<img width="1440" alt="Check Out Time by Gender" src="https://user-images.githubusercontent.com/93894964/153789173-f2110d87-e51a-4da1-9554-c1019e4b92fd.png">
-
+<img width="1042" alt="Check Out Time by Gender" src="https://user-images.githubusercontent.com/93894964/153789740-31bc46de-2f83-480b-9b1b-80a228853e0e.png">
 
 
 - Check Out Time by Users 
 
-<img width="1440" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/93894964/153789227-72e2c1f6-62d3-4743-8252-3ce321f9d900.png">
+<img width="1078" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/93894964/153789796-a4015ddb-69b3-45d5-b1ce-daab23111dee.png">
 
 
 
 - Trips by Gender 
 
-<img width="1440" alt="Trips by Gender" src="https://user-images.githubusercontent.com/93894964/153789260-34bc424a-7499-43a4-a635-c8ad9fdd3e75.png">
+<img width="1093" alt="Trips by Gender" src="https://user-images.githubusercontent.com/93894964/153789853-649103e0-ab7c-417f-be0a-6a7045856dbd.png">
 
 
 
 - Trips by Weekday per Hour 
+<img width="1078" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/93894964/153789925-1ee585b1-0fab-43f1-b7a6-f1fc1a57a0ff.png">
 
-<img width="1440" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/93894964/153789319-ee1f0c26-ef4e-47f0-b4ce-a3bc6c36fba7.png">
 
 
 
 - User trips by gender weekday
 
-<img width="1440" alt="User Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/93894964/153789356-1553f02e-6fc8-4050-a5df-6be2adfdb526.png">
-
+<img width="1027" alt="User Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/93894964/153789950-fd8b9ac6-f648-4495-97c5-41e915a4bbd3.png">
 
 
 
 - Top starting locations
-<img width="1440" alt="Top Starting Locations " src="https://user-images.githubusercontent.com/93894964/153789418-ee33b057-e808-4ee9-9c44-7dac04f331a8.png">
+
+<img width="1006" alt="Top Starting Locations " src="https://user-images.githubusercontent.com/93894964/153789995-42864bd4-a048-4481-990b-a788d8b9201c.png">
 
 
 - Top ending locations 
 
-<img width="1440" alt="top ending locations " src="https://user-images.githubusercontent.com/93894964/153789429-42f0df31-2d33-4bc8-b5e0-4462d98d3777.png">
+<img width="977" alt="top ending locations " src="https://user-images.githubusercontent.com/93894964/153790037-a67bb10e-a96e-44af-8f4f-d39ad15dcfa0.png">
 
 
 - Bike Utilizations
-<img width="1440" alt="Bike Utilization" src="https://user-images.githubusercontent.com/93894964/153789435-06b99fae-5ff0-48a0-9b22-1995f7a21515.png">
+
+<img width="1028" alt="Bike Utilization" src="https://user-images.githubusercontent.com/93894964/153790088-62122265-fe61-4590-a08a-bcf4a9383d91.png">
 
 
 
