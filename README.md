@@ -7,7 +7,8 @@
 
 For this project I am creating data visualization with Tableau for bike sharing program in New York City. The idea was to ride a code for the data and analyze it. It will help us see how the mechanics of the bike business in New York City.
 
-The Tableau story of the NYC CitiBike can be found in the following link:
+The Tableau story of the NYC CitiBike can be found in the following link: [link to dashboard](https://public.tableau.com/views/NYCCitiBikeStory_16447143085530/NYCCitiBike?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 
 ## Results
