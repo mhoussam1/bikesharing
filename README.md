@@ -76,3 +76,9 @@ The graph displays all the bikes and the accumulate trip utilization. When you h
 
 
 ## Summary
+
+
+Using tableau we are able to show different graphs to help analyze the data, to get some information on how the users  and the trips go. From the first page we can learn a lot about users for bike share company and helps us understand data in further analysis. The data and the graphs shown help us find the best way to preform maintenance. 
+
+
+As for the two additional graphs that would be an addition to what was created would be looking into the difference of the duration periods between the different bike stations. Using also how many bikes are at each station at every given hour would also help create analysis that is helpful for the company. The second graph would be using additional data from other months and finding the trends between them. I think that aspect will add huge analysis help and will present a different look at it. 
