@@ -56,11 +56,13 @@ The graph shows number of trips by weekday, by also separating it by the user ty
 
 <img width="1006" alt="Top Starting Locations " src="https://user-images.githubusercontent.com/93894964/153789995-42864bd4-a048-4481-990b-a788d8b9201c.png">
 
+The graph shows the most popular starting locations. The larger the bubble represents the higher number of trips. From the graph you can see what areas are popular amongst subscribers or customers. Downtown area is much more popular than surrounding areas, yet it is as important for surrounding areas to have bike services, in order to ensure good customer experience.
 
 - Top ending locations 
 
 <img width="977" alt="top ending locations " src="https://user-images.githubusercontent.com/93894964/153790037-a67bb10e-a96e-44af-8f4f-d39ad15dcfa0.png">
 
+The graph shows the most popular ending locations. The larger the bubble represents the higher number of trips. From the graph you can see what areas are popular amongst subscribers or customers. Downtown area is much more popular than surrounding areas, yet it is as important for surrounding areas to have bike services, in order to ensure good customer experience.
 
 - Bike Utilizations
 
